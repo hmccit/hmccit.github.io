@@ -1,4 +1,4 @@
-robotlolita.github.io
+hmccit.github.io
 =====================
 
-Personal blog.
+public documentation.
